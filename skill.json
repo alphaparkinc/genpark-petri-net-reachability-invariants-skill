@@ -1,0 +1,14 @@
+{
+  "name": "genpark-petri-net-reachability-invariants-skill",
+  "version": "1.0.0",
+  "description": "Petri net state transition simulator and reachability graph explorer for concurrent and distributed protocol verification.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "petri-net",
+    "reachability-graph",
+    "concurrency-verification",
+    "discrete-events",
+    "formal-methods"
+  ]
+}
